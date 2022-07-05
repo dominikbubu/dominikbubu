@@ -12,10 +12,10 @@
 
 <h1>Stats</h1>
 <a href="https://github.com/dominikbubu/dominikbubu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikbubu&title_color=048ad5&text_color=048ad5&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img width="275px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikbubu&title_color=048ad5&text_color=048ad5&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/dominikbubu/dominikbubu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dominikbubu&show_icons=false&line_height=27&count_private=true&title_color=1081c1&text_color=1081c1&icon_color=65c6fc&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=dominikbubu&show_icons=false&line_height=27&count_private=true&title_color=1081c1&text_color=1081c1&icon_color=65c6fc&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 
