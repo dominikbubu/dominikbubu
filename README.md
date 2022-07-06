@@ -12,9 +12,6 @@
 
 <h1>Stats</h1>
 <a href="https://github.com/dominikbubu/dominikbubu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikbubu&theme=tokyonight" />
-</a>
-<a href="https://github.com/dominikbubu/dominikbubu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=dominikbubu&theme=tokyonight" />
 </a>
 
