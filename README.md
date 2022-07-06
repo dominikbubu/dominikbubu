@@ -7,7 +7,7 @@
 <a href="https://"><img src="https://img.shields.io/badge/Code-React-blue?logo=react&logoColor=white" alt="Code - React"></a>
 <a href="https://"><img src="https://img.shields.io/badge/Code-Svelte-blue?logo=svelte&logoColor=white" alt="Code - Svelte"></a>
 <a href="https://"><img src="https://img.shields.io/badge/Code-Express.js-blue?logo=express&logoColor=white" alt="Code - Express.js"></a>
-<a href="https://"><img src="https://img.shields.io/badge/Code-Git-blue?logo=git&logoColor=white" alt="Code - Git"></a>
+<a href="https://"><img src="https://img.shields.io/badge/Tool-Git-blue?logo=git&logoColor=white" alt="Tool - Git"></a>
 <a href="https://"><img src="https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white" alt="Database - MySQL"></a>
 
 <h1>Stats</h1>
