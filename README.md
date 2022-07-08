@@ -9,6 +9,7 @@
 <a href="https://"><img src="https://img.shields.io/badge/Code-Express.js-blue?logo=express&logoColor=white" alt="Code - Express.js"></a>
 <a href="https://"><img src="https://img.shields.io/badge/Tool-Git-blue?logo=git&logoColor=white" alt="Tool - Git"></a>
 <a href="https://"><img src="https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white" alt="Database - MySQL"></a>
+<a href="https://"><img src="https://img.shields.io/badge/Tool-Firebase-blue?logo=firebase&logoColor=white" alt="Tool - Firebase"></a>
 
 <h1>Stats</h1>
 <a href="https://github.com/dominikbubu/dominikbubu">
